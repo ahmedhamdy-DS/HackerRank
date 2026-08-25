@@ -1,7 +1,4 @@
 
-
-
-
 height, length = map(int, input().split())
 for i in range(0, height // 2):
     s = '.|.' * (i * 2 + 1)

@@ -1,9 +1,5 @@
 
 
-
-
-
-
 thickness = int(input()) 
 c = 'H'
 

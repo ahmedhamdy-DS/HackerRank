@@ -1,7 +1,4 @@
 
-
-
-
 def readScores(listOfStudents):
     line = list(input().split())
     avScore = sum(map(float, line[1:])) / 3

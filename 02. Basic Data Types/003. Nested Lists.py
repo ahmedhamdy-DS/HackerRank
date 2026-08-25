@@ -1,7 +1,4 @@
 
-
-
-
 def secondLowestGrade(classList):
     secondLowestScore = sorted(set(_[1] for _ in classList))[1]
     result = sorted([_[0] for _ in classList if _[1] == secondLowestScore])

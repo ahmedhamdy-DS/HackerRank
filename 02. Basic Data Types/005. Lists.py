@@ -1,7 +1,4 @@
 
-
-
-
 def handler(result):
     inp = input().split()
     command = inp[0]
